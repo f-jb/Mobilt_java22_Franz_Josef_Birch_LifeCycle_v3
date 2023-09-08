@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LifeCycleV3.1</string>
+    <string name="loginButtonText">Login</string>
+    <string name="registerButtonText">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="submitEmailLabel">Please enter email</string>
+    <string name="submitPasswordLabelText">Please enter password</string>
+    <string name="submitRememberMeText">Remember me</string>
+    <string name="submitButtonText">Submit</string>
+    <string name="registerNameLabelText">Name</string>
+    <string name="registerDriversLicenseLabel">Drivers license?</string>
+    <string name="registerDriversLicenseCheckBoxText">Yes</string>
+    <string name="registerDateOfBirthLabelText">Date of Birth</string>
+    <string name="registerPasswordLabelText">Password</string>
+    <string name="registerSubmitButtonText">Submit</string>
+    <string name="registerEmailLabelText">Email</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="driversLicense">driversLicense</string>
+</resources>
